@@ -63,4 +63,4 @@ MIT — use it however you want.
 
 ## Morgan Beatty
 
-Morgan Beatty — (https://www.morganbeatty.com)
+Morgan Beatty
