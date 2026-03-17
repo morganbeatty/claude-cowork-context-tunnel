@@ -25,10 +25,6 @@ The skill assesses complexity and splits multi-part tasks into sequential steps 
 
 For simple tasks, you should — the skill recognizes these as "Type 0" and says so. But when you've been *reasoning* in Chat — exploring tradeoffs, rejecting approaches, discovering constraints — that reasoning is the product. Manually summarizing it for Cowork loses signal every time.
 
-## Important: Session Loss
-
-Cowork sessions don't persist when you switch to Chat. If you tab over to Chat mid-session and come back, Cowork starts fresh. The tunnel prompt doubles as a recovery document — paste it again and Cowork picks up where it left off.
-
 ## Install
 
 **Claude.ai / Claude Desktop:** Download the skill folder and upload it via Settings > Skills.
@@ -61,6 +57,6 @@ For complex tasks touching multiple unrelated areas, it splits into sequential s
 
 MIT — use it however you want.
 
-## Morgan Beatty
+## Developer
 
 Morgan Beatty
