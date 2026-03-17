@@ -61,6 +61,6 @@ For complex tasks touching multiple unrelated areas, it splits into sequential s
 
 MIT — use it however you want.
 
-## Author
+## Morgan Beatty
 
 Morgan Beatty — (https://www.morganbeatty.com)
